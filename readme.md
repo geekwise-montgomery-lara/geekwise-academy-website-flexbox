@@ -6,3 +6,6 @@
 * dark yellow `#D6B029`
 * white `#FFFFFF`
 * black `#000000`
+
+##TODO:
+* layout main page using flexbox (once done add ~~dkd~~ to cross off)
