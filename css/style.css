@@ -10,6 +10,10 @@ header{
     width:100%;
     text-align:center;
 }
+header > img{
+    width:40%;
+}
+
 nav{
     display:flex;
     height:10%;
@@ -20,4 +24,21 @@ nav > div{
     display:flex;
     justify-content:space-around;
     padding:1%;
+}
+
+
+
+footer{
+    display:inline-flex;
+}
+
+#fluff{
+    width:100%;
+    display:flex;
+    justify-content:center;
+}
+#word{
+    width:100%;
+    display:flex;
+    justify-content:center;
 }
