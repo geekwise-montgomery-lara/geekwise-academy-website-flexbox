@@ -9,3 +9,5 @@
 
 ##TODO:
 * layout main page using flexbox (once done add ~~dkd~~ to cross off)
+* Change size of home image
+* layout the footer 
