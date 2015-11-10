@@ -8,8 +8,8 @@
 * black `#000000`
 
 ##TODO:
-* layout main page using flexbox (once done add ~~dkd~~ to cross off)
-* Change size of home image
+* layout main page using flexbox
+* ~~Change size of home image~~
 * layout the footer 
-* layout word
-* change image sizes
+* ~~layout word~~
+* ~~change image sizes~~

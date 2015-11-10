@@ -11,7 +11,8 @@ header{
     text-align:center;
 }
 header > img{
-    width:40%;
+    max-width:100%;
+    height:auto;
 }
 
 nav{
@@ -28,9 +29,6 @@ nav > div{
 
 
 
-footer{
-    display:inline-flex;
-}
 
 #fluff{
     width:100%;
@@ -41,4 +39,23 @@ footer{
     width:100%;
     display:flex;
     justify-content:center;
+}
+divi{
+    display:flex;
+    justify-content:center;
+}
+#divider{
+    width:60%;
+    height:5%;
+    border-bottom:white solid 1px;
+}
+footer{
+    display:inline-flex;
+    width:100%;
+    display:flex;
+    justify-content:center;
+}
+footer > span{
+    width:calc(100%/3);
+    height:10%;
 }
