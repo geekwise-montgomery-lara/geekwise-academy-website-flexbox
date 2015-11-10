@@ -17,5 +17,7 @@ nav{
     justify-content:center;
 }
 nav > div{
-    display:inline;
+    display:flex;
+    justify-content:space-around;
+    padding:1%;
 }
