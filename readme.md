@@ -8,8 +8,8 @@
 * black `#000000`
 
 ##TODO:
-* layout main page using flexbox
+* ~~layout main page using flexbox~~
 * ~~Change size of home image~~
-* layout the footer 
+* ~~layout the footer~~
 * ~~layout word~~
 * ~~change image sizes~~
